@@ -1,0 +1,3 @@
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGameContent\obj\x86\Debug\TanksTheGameContent.contentprojResolveAssemblyReference.cache
+H:\TanksTheGame\TanksTheGameContent\obj\x86\Debug\TanksTheGameContent.contentprojResolveAssemblyReference.cache
+K:\TanksTheGame\TanksTheGameContent\obj\x86\Debug\TanksTheGameContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿Start
+	Message = YES
+		call Sender
+		Launch
+			Graphics
+			Receiver
+			AI (? resumable)
+
+G/C/L
+	Launch (or resume?)
+		Graphics
+		AI
+			call Sender

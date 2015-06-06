@@ -1,0 +1,60 @@
+c:\users\janaka\documents\visual studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\TanksTheGame.exe
+c:\users\janaka\documents\visual studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\TanksTheGame.pdb
+c:\users\janaka\documents\visual studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\janaka\documents\visual studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.exe
+c:\users\janaka\documents\visual studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.pdb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\fonts\ScoreFont.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\blank.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife100.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife25.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife50.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife75.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\bullet.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\coinPile.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\enemy.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\lifePack.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\me.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\stone.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\water.xnb
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.csprojResolveAssemblyReference.cache
+C:\Users\Janaka\Documents\Visual Studio 2010\Projects\TanksTheGame\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\logo.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\fonts\ScoreFont.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\logo.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\blank.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife100.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife25.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife50.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife75.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\bullet.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\coinPile.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\enemy.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\lifePack.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\me.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\stone.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\water.xnb
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\TanksTheGame.exe
+H:\TanksTheGame\TanksTheGame\bin\x86\Debug\TanksTheGame.pdb
+H:\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.csprojResolveAssemblyReference.cache
+H:\TanksTheGame\TanksTheGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.exe
+H:\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.pdb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\fonts\ScoreFont.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\logo.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\blank.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife100.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife25.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife50.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\brickLife75.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\bullet.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\coinPile.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\enemy.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\lifePack.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\me.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\stone.xnb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\TanksTheGame.exe
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\TanksTheGame.pdb
+K:\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.csprojResolveAssemblyReference.cache
+K:\TanksTheGame\TanksTheGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.exe
+K:\TanksTheGame\TanksTheGame\obj\x86\Debug\TanksTheGame.pdb
+K:\TanksTheGame\TanksTheGame\bin\x86\Debug\Content\image\water.xnb
